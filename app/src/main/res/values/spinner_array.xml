@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_array">
+        <item>전라북도</item>
+        <item>지역2</item>
+        <item>지역3</item>
+        <item>지역4</item>
+    </string-array>
+</resources>
